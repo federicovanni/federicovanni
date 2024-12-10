@@ -32,9 +32,9 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 ---
 
 # 🚀 Proyecto Destacado: [Eventop](https://eventop-frontend.vercel.app/)
-
+## 🟡 **TicketHub**: Venta de entradas y compra de tickets de eventos
 Accede a la aplicación en [eventop-frontend.vercel.app](https://eventop-frontend.vercel.app/).
-
+Si quieres conocer más sobre estos proyectos o colaborar conmigo, no dudes en contactarme.  
 ---
 
 ## ⚡ Dato curioso  
