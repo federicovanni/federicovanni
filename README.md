@@ -9,13 +9,27 @@ En los últimos años, descubrí una gran pasión por el **desarrollo backend**,
 
 ## 🌱 Actualmente estoy aprendiendo  
 Me encuentro profundizando mis conocimientos en:  
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 
+<p align="center">
+  <a href="https://nestjs.com/">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+</p>
 
 ---
 
@@ -26,16 +40,36 @@ Proyectos de desarrollo **backend** donde pueda aplicar mis habilidades y contin
 
 ## 📫 Cómo contactarme  
 Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:  
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:federicovanni@hotmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-vanni-80635696/)  
+
+<p align="center">
+  <a href="mailto:federicovanni@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/federico-vanni-80635696/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 # 🚀 Proyecto Destacado: [Eventop](https://eventop-frontend.vercel.app/)
-## 🟡 **TicketHub**: Venta de entradas y compra de tickets de eventos
-Accede a la aplicación en [eventop-frontend.vercel.app](https://eventop-frontend.vercel.app/).
+
+<p align="center">
+  <a href="https://eventop-frontend.vercel.app/">
+    <img src="https://via.placeholder.com/1000x500.png?text=Vista+previa+de+Eventop" alt="Vista previa de Eventop" />
+  </a>
+</p>
+
+**Descripción:**  
+**Eventop** es una plataforma que permite a los usuarios gestionar eventos, agendar turnos y visualizar sus citas. La aplicación está desarrollada con **React**, **Node.js**, **TypeScript** y **PostgreSQL**. Su objetivo es facilitar la organización de eventos y el seguimiento de los mismos por parte de los usuarios.  
+
+---
+
+
 Si quieres conocer más sobre estos proyectos o colaborar conmigo, no dudes en contactarme.  
+
 ---
 
 ## ⚡ Dato curioso  
 Fuera del ámbito profesional, mi familia es mi mayor pilar. Estoy casado y soy padre de un niño de 5 años, quienes representan mi mayor motivación diaria.  
+ 
