@@ -33,8 +33,6 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 
 # 🚀 Proyecto Destacado: [Eventop](https://eventop-frontend.vercel.app/)
 
-[![Vista previa de Eventop](https://via.placeholder.com/1000x500.png?text=Vista+previa+de+Eventop)](https://eventop-frontend.vercel.app/)
-
 Accede a la aplicación en [eventop-frontend.vercel.app](https://eventop-frontend.vercel.app/).
 
 ---
