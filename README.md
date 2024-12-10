@@ -56,7 +56,6 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 
 <p align="center">
   <a href="https://eventop-frontend.vercel.app/">
-    <img src="https://via.placeholder.com/1000x500.png?text=Vista+previa+de+Eventop" alt="Vista previa de Eventop" />
   </a>
 </p>
 
