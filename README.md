@@ -60,7 +60,7 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 </p>
 
 **Descripción:**  
-**Eventop** es una plataforma que permite a los usuarios gestionar eventos, agendar turnos y visualizar sus citas. La aplicación está desarrollada con **React**, **Node.js**, **TypeScript** y **PostgreSQL**. Su objetivo es facilitar la organización de eventos y el seguimiento de los mismos por parte de los usuarios.  
+**Eventop** es una plataforma que permite a los usuarios gestionar eventos y comprar entradas. Su objetivo es facilitar la organización de eventos y el seguimiento de los mismos por parte de los usuarios.  
 
 ---
 
